@@ -1,0 +1,2966 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954674,
+                40.660932
+              ],
+              [
+                -73.95474,
+                40.660928
+              ],
+              [
+                -73.95477,
+                40.661236
+              ],
+              [
+                -73.954705,
+                40.66124
+              ],
+              [
+                -73.954674,
+                40.660932
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "236 LINCOLN ROAD",
+        "bbl": 3050290035,
+        "ownername": "SPRINGER MELCHIOR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954238,
+                40.660959
+              ],
+              [
+                -73.954312,
+                40.660954
+              ],
+              [
+                -73.954342,
+                40.661262
+              ],
+              [
+                -73.954268,
+                40.661267
+              ],
+              [
+                -73.954238,
+                40.660959
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "256 LINCOLN ROAD",
+        "bbl": 3050290041,
+        "ownername": "LOVELL, AMANDA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956291,
+                40.661312
+              ],
+              [
+                -73.956357,
+                40.661308
+              ],
+              [
+                -73.956384,
+                40.661591
+              ],
+              [
+                -73.956318,
+                40.661596
+              ],
+              [
+                -73.956291,
+                40.661312
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "189 LINCOLN ROAD",
+        "bbl": 3013280086,
+        "ownername": "EDWARDS, DALE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955368,
+                40.66137
+              ],
+              [
+                -73.955444,
+                40.661365
+              ],
+              [
+                -73.955471,
+                40.661649
+              ],
+              [
+                -73.955413,
+                40.661652
+              ],
+              [
+                -73.955395,
+                40.661654
+              ],
+              [
+                -73.955368,
+                40.66137
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "215 LINCOLN ROAD",
+        "bbl": 3013280073,
+        "ownername": "MARTELES ARTHUR JR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956108,
+                40.660842
+              ],
+              [
+                -73.95618,
+                40.660838
+              ],
+              [
+                -73.956211,
+                40.661146
+              ],
+              [
+                -73.956138,
+                40.66115
+              ],
+              [
+                -73.956108,
+                40.660842
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "194 LINCOLN ROAD",
+        "bbl": 3050290015,
+        "ownername": "HALL CARL A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.95436,
+                40.661433
+              ],
+              [
+                -73.954435,
+                40.661428
+              ],
+              [
+                -73.954462,
+                40.661712
+              ],
+              [
+                -73.954406,
+                40.661716
+              ],
+              [
+                -73.954387,
+                40.661717
+              ],
+              [
+                -73.95436,
+                40.661433
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "249 LINCOLN ROAD",
+        "bbl": 3013280059,
+        "ownername": "COLLIGNON, KATHERINE D"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954504,
+                40.661424
+              ],
+              [
+                -73.954579,
+                40.661419
+              ],
+              [
+                -73.954606,
+                40.661703
+              ],
+              [
+                -73.95455,
+                40.661707
+              ],
+              [
+                -73.954531,
+                40.661708
+              ],
+              [
+                -73.954504,
+                40.661424
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "245 LINCOLN ROAD",
+        "bbl": 3013280061,
+        "ownername": "H A CRUSE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955513,
+                40.661361
+              ],
+              [
+                -73.955586,
+                40.661356
+              ],
+              [
+                -73.955613,
+                40.66164
+              ],
+              [
+                -73.955554,
+                40.661644
+              ],
+              [
+                -73.95554,
+                40.661644
+              ],
+              [
+                -73.955513,
+                40.661361
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "211 LINCOLN ROAD",
+        "bbl": 3013280075,
+        "ownername": "JURKOIC, DONALD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.9558,
+                40.661343
+              ],
+              [
+                -73.955873,
+                40.661338
+              ],
+              [
+                -73.9559,
+                40.661622
+              ],
+              [
+                -73.955843,
+                40.661625
+              ],
+              [
+                -73.955827,
+                40.661626
+              ],
+              [
+                -73.9558,
+                40.661343
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "203 LINCOLN ROAD",
+        "bbl": 3013280079,
+        "ownername": "DIXON, MARY E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954597,
+                40.660937
+              ],
+              [
+                -73.954674,
+                40.660932
+              ],
+              [
+                -73.954705,
+                40.66124
+              ],
+              [
+                -73.954627,
+                40.661245
+              ],
+              [
+                -73.954597,
+                40.660937
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "244 LINCOLN ROAD",
+        "bbl": 3050290036,
+        "ownername": "TOGNERI, JACQUELINE KATE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954529,
+                40.660941
+              ],
+              [
+                -73.954597,
+                40.660937
+              ],
+              [
+                -73.954627,
+                40.661245
+              ],
+              [
+                -73.95456,
+                40.661249
+              ],
+              [
+                -73.954529,
+                40.660941
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "246 LINCOLN ROAD",
+        "bbl": 3050290037,
+        "ownername": "GEER KAREN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956357,
+                40.661308
+              ],
+              [
+                -73.956428,
+                40.661303
+              ],
+              [
+                -73.956455,
+                40.661587
+              ],
+              [
+                -73.956384,
+                40.661591
+              ],
+              [
+                -73.956357,
+                40.661308
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "187 LINCOLN ROAD",
+        "bbl": 3013280087,
+        "ownername": "CHARLES, JOYCE L"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954216,
+                40.661442
+              ],
+              [
+                -73.95429,
+                40.661437
+              ],
+              [
+                -73.954317,
+                40.661721
+              ],
+              [
+                -73.95426,
+                40.661725
+              ],
+              [
+                -73.954243,
+                40.661726
+              ],
+              [
+                -73.954216,
+                40.661442
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "253 LINCOLN ROAD",
+        "bbl": 3013280057,
+        "ownername": "OLIVER, PATRICE A."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.95429,
+                40.661437
+              ],
+              [
+                -73.95436,
+                40.661433
+              ],
+              [
+                -73.954387,
+                40.661717
+              ],
+              [
+                -73.954333,
+                40.66172
+              ],
+              [
+                -73.954317,
+                40.661721
+              ],
+              [
+                -73.95429,
+                40.661437
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "251 LINCOLN ROAD",
+        "bbl": 3013280058,
+        "ownername": "SIM, MICHAEL G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954866,
+                40.661401
+              ],
+              [
+                -73.954933,
+                40.661397
+              ],
+              [
+                -73.95496,
+                40.661681
+              ],
+              [
+                -73.954909,
+                40.661684
+              ],
+              [
+                -73.954893,
+                40.661685
+              ],
+              [
+                -73.954866,
+                40.661401
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "235 LINCOLN ROAD",
+        "bbl": 3013280066,
+        "ownername": "JOYCE GABRIEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955008,
+                40.661392
+              ],
+              [
+                -73.955079,
+                40.661388
+              ],
+              [
+                -73.955106,
+                40.661672
+              ],
+              [
+                -73.955053,
+                40.661675
+              ],
+              [
+                -73.955035,
+                40.661676
+              ],
+              [
+                -73.955008,
+                40.661392
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "231 LINCOLN ROAD",
+        "bbl": 3013280068,
+        "ownername": "HINES, MAGGIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955223,
+                40.661379
+              ],
+              [
+                -73.955298,
+                40.661374
+              ],
+              [
+                -73.955325,
+                40.661658
+              ],
+              [
+                -73.955269,
+                40.661662
+              ],
+              [
+                -73.95525,
+                40.661663
+              ],
+              [
+                -73.955223,
+                40.661379
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "219 LINCOLN ROAD",
+        "bbl": 3013280071,
+        "ownername": "PRUDHOMME, ALEX"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955444,
+                40.661365
+              ],
+              [
+                -73.955513,
+                40.661361
+              ],
+              [
+                -73.95554,
+                40.661644
+              ],
+              [
+                -73.955481,
+                40.661648
+              ],
+              [
+                -73.955471,
+                40.661649
+              ],
+              [
+                -73.955444,
+                40.661365
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "213 LINCOLN ROAD",
+        "bbl": 3013280074,
+        "ownername": "SHELTON, MICHELE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955586,
+                40.661356
+              ],
+              [
+                -73.955655,
+                40.661352
+              ],
+              [
+                -73.955682,
+                40.661636
+              ],
+              [
+                -73.955626,
+                40.661639
+              ],
+              [
+                -73.955613,
+                40.66164
+              ],
+              [
+                -73.955586,
+                40.661356
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "209 LINCOLN ROAD",
+        "bbl": 3013280076,
+        "ownername": "FORRESTER,  HELEN L."
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955873,
+                40.661338
+              ],
+              [
+                -73.955941,
+                40.661334
+              ],
+              [
+                -73.955968,
+                40.661618
+              ],
+              [
+                -73.955912,
+                40.661621
+              ],
+              [
+                -73.9559,
+                40.661622
+              ],
+              [
+                -73.955873,
+                40.661338
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "201 LINCOLN ROAD",
+        "bbl": 3013280080,
+        "ownername": "THOMAS, BRYAN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956578,
+                40.661294
+              ],
+              [
+                -73.95666,
+                40.661289
+              ],
+              [
+                -73.956687,
+                40.661572
+              ],
+              [
+                -73.956605,
+                40.661578
+              ],
+              [
+                -73.956578,
+                40.661294
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "181 LINCOLN ROAD",
+        "bbl": 3013280090,
+        "ownername": "181 LINCOLN RD LLC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.95666,
+                40.661289
+              ],
+              [
+                -73.956737,
+                40.661284
+              ],
+              [
+                -73.956764,
+                40.661568
+              ],
+              [
+                -73.956687,
+                40.661572
+              ],
+              [
+                -73.95666,
+                40.661289
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "179 LINCOLN ROAD",
+        "bbl": 3013280091,
+        "ownername": "B H FRANKLIN LLC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.95625,
+                40.660833
+              ],
+              [
+                -73.956325,
+                40.660829
+              ],
+              [
+                -73.956355,
+                40.661137
+              ],
+              [
+                -73.95628,
+                40.661141
+              ],
+              [
+                -73.95625,
+                40.660833
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "190 LINCOLN ROAD",
+        "bbl": 3050290013,
+        "ownername": "BERGER, ALAN P"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955963,
+                40.660851
+              ],
+              [
+                -73.956038,
+                40.660846
+              ],
+              [
+                -73.956069,
+                40.661154
+              ],
+              [
+                -73.955994,
+                40.661159
+              ],
+              [
+                -73.955963,
+                40.660851
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "198 LINCOLN ROAD",
+        "bbl": 3050290017,
+        "ownername": "BYNOE-KASDEN VALERIE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955243,
+                40.660896
+              ],
+              [
+                -73.95532,
+                40.660891
+              ],
+              [
+                -73.95535,
+                40.661199
+              ],
+              [
+                -73.955274,
+                40.661204
+              ],
+              [
+                -73.955243,
+                40.660896
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "220 LINCOLN ROAD",
+        "bbl": 3050290027,
+        "ownername": "MARIE E. CHAVANNES LIVING TRUST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955175,
+                40.6609
+              ],
+              [
+                -73.955243,
+                40.660896
+              ],
+              [
+                -73.955274,
+                40.661204
+              ],
+              [
+                -73.955206,
+                40.661208
+              ],
+              [
+                -73.955175,
+                40.6609
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "222 LINCOLN ROAD",
+        "bbl": 3050290028,
+        "ownername": "MAUREEN FACEY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954886,
+                40.660919
+              ],
+              [
+                -73.954962,
+                40.660914
+              ],
+              [
+                -73.954993,
+                40.661222
+              ],
+              [
+                -73.954916,
+                40.661227
+              ],
+              [
+                -73.954886,
+                40.660919
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "230 LINCOLN ROAD",
+        "bbl": 3050290032,
+        "ownername": "ROUSSET, MELISSA A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.95474,
+                40.660928
+              ],
+              [
+                -73.954814,
+                40.660923
+              ],
+              [
+                -73.954844,
+                40.661231
+              ],
+              [
+                -73.95477,
+                40.661236
+              ],
+              [
+                -73.95474,
+                40.660928
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "234 LINCOLN ROAD",
+        "bbl": 3050290034,
+        "ownername": "SKROBELA, KATHERINEC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955941,
+                40.661334
+              ],
+              [
+                -73.956015,
+                40.661329
+              ],
+              [
+                -73.956042,
+                40.661613
+              ],
+              [
+                -73.955981,
+                40.661617
+              ],
+              [
+                -73.955968,
+                40.661618
+              ],
+              [
+                -73.955941,
+                40.661334
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "199 LINCOLN ROAD",
+        "bbl": 3013280081,
+        "ownername": "RUTHERFORD, VALRIE I"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955607,
+                40.660873
+              ],
+              [
+                -73.955674,
+                40.660869
+              ],
+              [
+                -73.955704,
+                40.661177
+              ],
+              [
+                -73.955638,
+                40.661181
+              ],
+              [
+                -73.955607,
+                40.660873
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "210 LINCOLN ROAD",
+        "bbl": 3050290022,
+        "ownername": "THOMAS FREDERICK JAMBOIS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955388,
+                40.660887
+              ],
+              [
+                -73.955463,
+                40.660882
+              ],
+              [
+                -73.955493,
+                40.66119
+              ],
+              [
+                -73.955418,
+                40.661195
+              ],
+              [
+                -73.955388,
+                40.660887
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "216 LINCOLN ROAD",
+        "bbl": 3050290025,
+        "ownername": "EDWARD L. CORNELIUS, CO-TRUSTEE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.953876,
+                40.660982
+              ],
+              [
+                -73.953945,
+                40.660977
+              ],
+              [
+                -73.953976,
+                40.661285
+              ],
+              [
+                -73.953907,
+                40.66129
+              ],
+              [
+                -73.953876,
+                40.660982
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "268 LINCOLN ROAD",
+        "bbl": 3050290046,
+        "ownername": "OLLIE HINSON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956694,
+                40.660805
+              ],
+              [
+                -73.956783,
+                40.6608
+              ],
+              [
+                -73.956818,
+                40.661108
+              ],
+              [
+                -73.956724,
+                40.661113
+              ],
+              [
+                -73.956694,
+                40.660805
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "address": "174 LINCOLN ROAD",
+        "bbl": 3050290006,
+        "ownername": "BOYCE ADINA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954454,
+                40.660946
+              ],
+              [
+                -73.954529,
+                40.660941
+              ],
+              [
+                -73.95456,
+                40.661249
+              ],
+              [
+                -73.954485,
+                40.661254
+              ],
+              [
+                -73.954454,
+                40.660946
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "250 LINCOLN ROAD",
+        "bbl": 3050290038,
+        "ownername": "VAN LENTEN, ANNA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956505,
+                40.661298
+              ],
+              [
+                -73.956578,
+                40.661294
+              ],
+              [
+                -73.956605,
+                40.661578
+              ],
+              [
+                -73.956532,
+                40.661582
+              ],
+              [
+                -73.956505,
+                40.661298
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "183 LINCOLN ROAD",
+        "bbl": 3013280089,
+        "ownername": "THOMASENA ELLISON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956537,
+                40.660815
+              ],
+              [
+                -73.956542,
+                40.660815
+              ],
+              [
+                -73.956607,
+                40.660811
+              ],
+              [
+                -73.956638,
+                40.661119
+              ],
+              [
+                -73.956567,
+                40.661123
+              ],
+              [
+                -73.956537,
+                40.660815
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "178 LINCOLN ROAD",
+        "bbl": 3050290009,
+        "ownername": "FLEISCHER-BLACK, JESSICA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954962,
+                40.660914
+              ],
+              [
+                -73.955033,
+                40.660909
+              ],
+              [
+                -73.955063,
+                40.661217
+              ],
+              [
+                -73.954993,
+                40.661222
+              ],
+              [
+                -73.954962,
+                40.660914
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "228 LINCOLN ROAD",
+        "bbl": 3050290031,
+        "ownername": "VENTURA PETER A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954166,
+                40.66168
+              ],
+              [
+                -73.954161,
+                40.661629
+              ],
+              [
+                -73.954156,
+                40.661573
+              ],
+              [
+                -73.954151,
+                40.661523
+              ],
+              [
+                -73.954144,
+                40.661447
+              ],
+              [
+                -73.954216,
+                40.661442
+              ],
+              [
+                -73.954243,
+                40.661726
+              ],
+              [
+                -73.954171,
+                40.66173
+              ],
+              [
+                -73.954166,
+                40.66168
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "255 LINCOLN ROAD",
+        "bbl": 3013280056,
+        "ownername": "GOLDMAN, DANIEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955728,
+                40.661347
+              ],
+              [
+                -73.9558,
+                40.661343
+              ],
+              [
+                -73.955827,
+                40.661626
+              ],
+              [
+                -73.955768,
+                40.66163
+              ],
+              [
+                -73.955755,
+                40.661631
+              ],
+              [
+                -73.955728,
+                40.661347
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "205 LINCOLN ROAD",
+        "bbl": 3013280078,
+        "ownername": "MOTCH, ARTHUR E IV"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954721,
+                40.66141
+              ],
+              [
+                -73.95479,
+                40.661406
+              ],
+              [
+                -73.954817,
+                40.66169
+              ],
+              [
+                -73.954764,
+                40.661693
+              ],
+              [
+                -73.954748,
+                40.661694
+              ],
+              [
+                -73.954721,
+                40.66141
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "239 LINCOLN ROAD",
+        "bbl": 3013280064,
+        "ownername": "GREENWALD, ROBIN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956465,
+                40.66082
+              ],
+              [
+                -73.956466,
+                40.66082
+              ],
+              [
+                -73.956537,
+                40.660815
+              ],
+              [
+                -73.956567,
+                40.661123
+              ],
+              [
+                -73.956495,
+                40.661128
+              ],
+              [
+                -73.956465,
+                40.66082
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "182 LINCOLN ROAD",
+        "bbl": 3050290010,
+        "ownername": "MARY ELLEN ZINCKE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955894,
+                40.660856
+              ],
+              [
+                -73.955963,
+                40.660851
+              ],
+              [
+                -73.955994,
+                40.661159
+              ],
+              [
+                -73.955924,
+                40.661163
+              ],
+              [
+                -73.955894,
+                40.660856
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "200 LINCOLN ROAD",
+        "bbl": 3050290018,
+        "ownername": "MULVANEY , JUNE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954579,
+                40.661419
+              ],
+              [
+                -73.954648,
+                40.661415
+              ],
+              [
+                -73.954675,
+                40.661699
+              ],
+              [
+                -73.95462,
+                40.661702
+              ],
+              [
+                -73.954606,
+                40.661703
+              ],
+              [
+                -73.954579,
+                40.661419
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "243 LINCOLN ROAD",
+        "bbl": 3013280062,
+        "ownername": "JERRI-LYNN SCOFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.95417,
+                40.660963
+              ],
+              [
+                -73.954238,
+                40.660959
+              ],
+              [
+                -73.954268,
+                40.661267
+              ],
+              [
+                -73.954201,
+                40.661271
+              ],
+              [
+                -73.95417,
+                40.660963
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "258 LINCOLN ROAD",
+        "bbl": 3050290042,
+        "ownername": "BLAIR, CLARENCE JR"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954648,
+                40.661415
+              ],
+              [
+                -73.954721,
+                40.66141
+              ],
+              [
+                -73.954748,
+                40.661694
+              ],
+              [
+                -73.954694,
+                40.661698
+              ],
+              [
+                -73.954675,
+                40.661699
+              ],
+              [
+                -73.954648,
+                40.661415
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "241 LINCOLN ROAD",
+        "bbl": 3013280063,
+        "ownername": "BETTY RHODES"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955655,
+                40.661352
+              ],
+              [
+                -73.955728,
+                40.661347
+              ],
+              [
+                -73.955755,
+                40.661631
+              ],
+              [
+                -73.9557,
+                40.661634
+              ],
+              [
+                -73.955682,
+                40.661636
+              ],
+              [
+                -73.955655,
+                40.661352
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "207 LINCOLN ROAD",
+        "bbl": 3013280077,
+        "ownername": "PATRAULEA, MICHAEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.953798,
+                40.660987
+              ],
+              [
+                -73.953876,
+                40.660982
+              ],
+              [
+                -73.953907,
+                40.66129
+              ],
+              [
+                -73.953829,
+                40.661295
+              ],
+              [
+                -73.953798,
+                40.660987
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "272 LINCOLN ROAD",
+        "bbl": 3050290047,
+        "ownername": "TAYLOR, MICHAEL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.9564,
+                40.660824
+              ],
+              [
+                -73.956401,
+                40.660824
+              ],
+              [
+                -73.956465,
+                40.66082
+              ],
+              [
+                -73.956495,
+                40.661128
+              ],
+              [
+                -73.95643,
+                40.661132
+              ],
+              [
+                -73.9564,
+                40.660824
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "184 LINCOLN ROAD",
+        "bbl": 3050290011,
+        "ownername": "WHEELER LAURIE G"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956325,
+                40.660829
+              ],
+              [
+                -73.9564,
+                40.660824
+              ],
+              [
+                -73.95643,
+                40.661132
+              ],
+              [
+                -73.956355,
+                40.661137
+              ],
+              [
+                -73.956325,
+                40.660829
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "188 LINCOLN ROAD",
+        "bbl": 3050290012,
+        "ownername": "R BLOOMFIELD"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956428,
+                40.661303
+              ],
+              [
+                -73.956505,
+                40.661298
+              ],
+              [
+                -73.956532,
+                40.661582
+              ],
+              [
+                -73.956459,
+                40.661587
+              ],
+              [
+                -73.956455,
+                40.661587
+              ],
+              [
+                -73.956428,
+                40.661303
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "185 LINCOLN ROAD",
+        "bbl": 3013280088,
+        "ownername": "GENE REGIST"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955298,
+                40.661374
+              ],
+              [
+                -73.955368,
+                40.66137
+              ],
+              [
+                -73.955395,
+                40.661654
+              ],
+              [
+                -73.95534,
+                40.661657
+              ],
+              [
+                -73.955325,
+                40.661658
+              ],
+              [
+                -73.955298,
+                40.661374
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "217 LINCOLN ROAD",
+        "bbl": 3013280072,
+        "ownername": "REYNOLD J CARABALLO"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956607,
+                40.660811
+              ],
+              [
+                -73.956612,
+                40.660811
+              ],
+              [
+                -73.956685,
+                40.660806
+              ],
+              [
+                -73.956694,
+                40.660805
+              ],
+              [
+                -73.956724,
+                40.661113
+              ],
+              [
+                -73.956638,
+                40.661119
+              ],
+              [
+                -73.956607,
+                40.660811
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "176 LINCOLN ROAD",
+        "bbl": 3050290008,
+        "ownername": "BELFATTI, CARL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956038,
+                40.660846
+              ],
+              [
+                -73.956108,
+                40.660842
+              ],
+              [
+                -73.956138,
+                40.66115
+              ],
+              [
+                -73.956069,
+                40.661154
+              ],
+              [
+                -73.956038,
+                40.660846
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "196 LINCOLN ROAD",
+        "bbl": 3050290016,
+        "ownername": "MING, CHAN KAI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954435,
+                40.661428
+              ],
+              [
+                -73.954504,
+                40.661424
+              ],
+              [
+                -73.954531,
+                40.661708
+              ],
+              [
+                -73.954473,
+                40.661711
+              ],
+              [
+                -73.954462,
+                40.661712
+              ],
+              [
+                -73.954435,
+                40.661428
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "247 LINCOLN ROAD",
+        "bbl": 3013280060,
+        "ownername": "247 LINCOLN REALTY LLC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954024,
+                40.660972
+              ],
+              [
+                -73.954094,
+                40.660968
+              ],
+              [
+                -73.954125,
+                40.661276
+              ],
+              [
+                -73.954055,
+                40.66128
+              ],
+              [
+                -73.954024,
+                40.660972
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "264 LINCOLN ROAD",
+        "bbl": 3050290044,
+        "ownername": "MOORE EVELYN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.953945,
+                40.660977
+              ],
+              [
+                -73.954024,
+                40.660972
+              ],
+              [
+                -73.954055,
+                40.66128
+              ],
+              [
+                -73.953976,
+                40.661285
+              ],
+              [
+                -73.953945,
+                40.660977
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "266 LINCOLN ROAD",
+        "bbl": 3050290045,
+        "ownername": "KIRTON JANNETT M"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955154,
+                40.661383
+              ],
+              [
+                -73.955223,
+                40.661379
+              ],
+              [
+                -73.95525,
+                40.661663
+              ],
+              [
+                -73.955195,
+                40.661666
+              ],
+              [
+                -73.955181,
+                40.661667
+              ],
+              [
+                -73.955154,
+                40.661383
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "227 LINCOLN ROAD",
+        "bbl": 3013280070,
+        "ownername": "BETTS JAMES E"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955674,
+                40.660869
+              ],
+              [
+                -73.955751,
+                40.660864
+              ],
+              [
+                -73.955781,
+                40.661172
+              ],
+              [
+                -73.955704,
+                40.661177
+              ],
+              [
+                -73.955674,
+                40.660869
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "208 LINCOLN ROAD",
+        "bbl": 3050290021,
+        "ownername": "CONSTANTINE-LUCILE SMITH"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955532,
+                40.660878
+              ],
+              [
+                -73.955607,
+                40.660873
+              ],
+              [
+                -73.955638,
+                40.661181
+              ],
+              [
+                -73.955563,
+                40.661186
+              ],
+              [
+                -73.955532,
+                40.660878
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "212 LINCOLN ROAD",
+        "bbl": 3050290023,
+        "ownername": "O'CONNOR, MARY"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955463,
+                40.660882
+              ],
+              [
+                -73.955532,
+                40.660878
+              ],
+              [
+                -73.955563,
+                40.661186
+              ],
+              [
+                -73.955493,
+                40.66119
+              ],
+              [
+                -73.955463,
+                40.660882
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "214 LINCOLN ROAD",
+        "bbl": 3050290024,
+        "ownername": "214 LINCOLN ROAD LLC"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955102,
+                40.660905
+              ],
+              [
+                -73.955175,
+                40.6609
+              ],
+              [
+                -73.955206,
+                40.661208
+              ],
+              [
+                -73.955132,
+                40.661213
+              ],
+              [
+                -73.955102,
+                40.660905
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "224 LINCOLN ROAD",
+        "bbl": 3050290029,
+        "ownername": "POTOFF, LENI"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954094,
+                40.660968
+              ],
+              [
+                -73.95417,
+                40.660963
+              ],
+              [
+                -73.954201,
+                40.661271
+              ],
+              [
+                -73.954125,
+                40.661276
+              ],
+              [
+                -73.954094,
+                40.660968
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "262 LINCOLN ROAD",
+        "bbl": 3050290043,
+        "ownername": "EDWARD R YOUNG"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956737,
+                40.661284
+              ],
+              [
+                -73.956828,
+                40.661278
+              ],
+              [
+                -73.956858,
+                40.661562
+              ],
+              [
+                -73.956764,
+                40.661568
+              ],
+              [
+                -73.956737,
+                40.661284
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "177 LINCOLN ROAD",
+        "bbl": 3013280001,
+        "ownername": "WILSON, JOYCELYN"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.95618,
+                40.660838
+              ],
+              [
+                -73.95625,
+                40.660833
+              ],
+              [
+                -73.95628,
+                40.661141
+              ],
+              [
+                -73.956211,
+                40.661146
+              ],
+              [
+                -73.95618,
+                40.660838
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "192 LINCOLN ROAD",
+        "bbl": 3050290014,
+        "ownername": "ALEXANDER, LIVIA"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.953711,
+                40.660992
+              ],
+              [
+                -73.953798,
+                40.660987
+              ],
+              [
+                -73.953829,
+                40.661295
+              ],
+              [
+                -73.953741,
+                40.6613
+              ],
+              [
+                -73.953711,
+                40.660992
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "274 LINCOLN ROAD",
+        "bbl": 3050290048,
+        "ownername": "LEOTAUD, GERARD A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955751,
+                40.660864
+              ],
+              [
+                -73.955818,
+                40.66086
+              ],
+              [
+                -73.955848,
+                40.661168
+              ],
+              [
+                -73.955781,
+                40.661172
+              ],
+              [
+                -73.955751,
+                40.660864
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "206 LINCOLN ROAD",
+        "bbl": 3050290020,
+        "ownername": "BAXTER MILTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955818,
+                40.66086
+              ],
+              [
+                -73.955894,
+                40.660856
+              ],
+              [
+                -73.955924,
+                40.661163
+              ],
+              [
+                -73.955848,
+                40.661168
+              ],
+              [
+                -73.955818,
+                40.66086
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "204 LINCOLN ROAD",
+        "bbl": 3050290019,
+        "ownername": "ESME HAMILTON"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954933,
+                40.661397
+              ],
+              [
+                -73.955008,
+                40.661392
+              ],
+              [
+                -73.955035,
+                40.661676
+              ],
+              [
+                -73.954983,
+                40.661679
+              ],
+              [
+                -73.95496,
+                40.661681
+              ],
+              [
+                -73.954933,
+                40.661397
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "233 LINCOLN ROAD",
+        "bbl": 3013280067,
+        "ownername": "DEVLIN, RAYMOND J III"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955079,
+                40.661388
+              ],
+              [
+                -73.955154,
+                40.661383
+              ],
+              [
+                -73.955181,
+                40.661667
+              ],
+              [
+                -73.955127,
+                40.66167
+              ],
+              [
+                -73.955106,
+                40.661672
+              ],
+              [
+                -73.955079,
+                40.661388
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "229 LINCOLN ROAD",
+        "bbl": 3013280069,
+        "ownername": "PATRICIA HINDS"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954312,
+                40.660954
+              ],
+              [
+                -73.95438,
+                40.66095
+              ],
+              [
+                -73.954411,
+                40.661258
+              ],
+              [
+                -73.954342,
+                40.661262
+              ],
+              [
+                -73.954312,
+                40.660954
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "254 LINCOLN ROAD",
+        "bbl": 3050290040,
+        "ownername": "FLUMENBAUM, DAVID"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.954814,
+                40.660923
+              ],
+              [
+                -73.954886,
+                40.660919
+              ],
+              [
+                -73.954916,
+                40.661227
+              ],
+              [
+                -73.954844,
+                40.661231
+              ],
+              [
+                -73.954814,
+                40.660923
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "232 LINCOLN ROAD",
+        "bbl": 3050290033,
+        "ownername": "LINDA TWINE"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.95479,
+                40.661406
+              ],
+              [
+                -73.954866,
+                40.661401
+              ],
+              [
+                -73.954893,
+                40.661685
+              ],
+              [
+                -73.954837,
+                40.661689
+              ],
+              [
+                -73.954817,
+                40.66169
+              ],
+              [
+                -73.95479,
+                40.661406
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "237 LINCOLN ROAD",
+        "bbl": 3013280065,
+        "ownername": "DON L MITCHELL"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.955033,
+                40.660909
+              ],
+              [
+                -73.955102,
+                40.660905
+              ],
+              [
+                -73.955132,
+                40.661213
+              ],
+              [
+                -73.955063,
+                40.661217
+              ],
+              [
+                -73.955033,
+                40.660909
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "226 LINCOLN ROAD",
+        "bbl": 3050290030,
+        "ownername": "BERNARD WASOW & MARGARETTE EILEEN WASOW  JOINT RLT"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.95532,
+                40.660891
+              ],
+              [
+                -73.955388,
+                40.660887
+              ],
+              [
+                -73.955418,
+                40.661195
+              ],
+              [
+                -73.95535,
+                40.661199
+              ],
+              [
+                -73.95532,
+                40.660891
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "218 LINCOLN ROAD",
+        "bbl": 3050290026,
+        "ownername": "ROSENBUSH, STEVEN A"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.95438,
+                40.66095
+              ],
+              [
+                -73.954454,
+                40.660946
+              ],
+              [
+                -73.954485,
+                40.661254
+              ],
+              [
+                -73.954411,
+                40.661258
+              ],
+              [
+                -73.95438,
+                40.66095
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "252 LINCOLN ROAD",
+        "bbl": 3050290039,
+        "ownername": "MICHAEL HU"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPolygon",
+        "coordinates": [
+          [
+            [
+              [
+                -73.956218,
+                40.661316
+              ],
+              [
+                -73.956291,
+                40.661312
+              ],
+              [
+                -73.956318,
+                40.661596
+              ],
+              [
+                -73.956317,
+                40.661596
+              ],
+              [
+                -73.956245,
+                40.6616
+              ],
+              [
+                -73.956218,
+                40.661316
+              ]
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "address": "191 LINCOLN ROAD",
+        "bbl": 3013280085,
+        "ownername": "DEFENDINI ELOYSE"
+      }
+    }
+  ]
+}
